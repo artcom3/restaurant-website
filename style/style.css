@@ -1,6 +1,7 @@
 .bg-images {
   background-repeat: no-repeat;
   background-position: center top;
+  background-size: cover;
 }
 
 .navbar-nav .nav-link {
