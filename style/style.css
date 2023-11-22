@@ -51,10 +51,7 @@ p {
   color:white;
 }
 
-/* .container-menupage {
-  background-color: #F6F2E7;
-  
-} */
+
 .team {
   background-color: #F6F2E7;
 }
@@ -63,9 +60,19 @@ p {
   padding-top:7%;
   margin-bottom: 0;
 }
+
+.container-menupage {
+  background-color: #F6F2E7;
+  
+}
+
 .container-menupage img {
   height: 200px;
   object-fit: cover;
+}
+
+.entree, .beve{
+  background-color: white;
 }
 
 footer {
