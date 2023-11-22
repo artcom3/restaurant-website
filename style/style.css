@@ -1,10 +1,27 @@
-.home-header-image {
-  background-image: url('/images/mountain.jpg');
+.bg-images {
   background-repeat: no-repeat;
   background-position: center top;
 }
 
+.navbar-nav .nav-link {
+  color: white;
+}
 .header-images {
   object-fit: cover;
 }
 
+.navbar-background {
+  background-color: black;
+}
+h2 {
+  font-family: 'Roboto Serif', serif;
+  font-size: 55px;
+  font-weight: bold;
+  color: #C13434;
+  padding-top: 30%;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
