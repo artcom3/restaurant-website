@@ -6,6 +6,10 @@
 .navbar-nav .nav-link {
   color: white;
 }
+
+footer {
+  margin-top: 5%;
+}
 .header-images {
   object-fit: cover;
 }
@@ -35,3 +39,10 @@ p {
   background-color: #893434;
   color:white;
 }
+
+.container-menupage img {
+  height: 200px;
+  object-fit: cover;
+}
+
+
