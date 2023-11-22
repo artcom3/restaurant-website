@@ -17,7 +17,9 @@ footer {
 .navbar-background {
   background-color: black;
 }
-h2 {
+
+h1 {
+  text-transform: uppercase;
   font-family: 'Roboto Serif', serif;
   font-size: 55px;
   font-weight: bold;
@@ -25,6 +27,14 @@ h2 {
   padding-top: 5%;
 }
 
+h2 {
+  text-transform: uppercase;
+  font-family: 'Roboto Serif', serif;
+  font-size: 35px;
+  font-weight: bold;
+  color: #C13434;
+  padding: 2% 0 2% 0;
+}
 p {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
@@ -34,12 +44,10 @@ p {
   background-color: #F6F2E7;
   
 }
-
 .btn {
   background-color: #893434;
   color:white;
 }
-
 .container-menupage img {
   height: 200px;
   object-fit: cover;
