@@ -50,14 +50,18 @@ p {
   color:white;
 }
 
-.container-menupage {
+/* .container-menupage {
   background-color: #F6F2E7;
   
-}
+} */
 
 .container-menupage img {
   height: 200px;
   object-fit: cover;
 }
 
-
+footer {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px; 
+  color:white
+}
