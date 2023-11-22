@@ -49,6 +49,12 @@ p {
   background-color: #893434;
   color:white;
 }
+
+.container-menupage {
+  background-color: #F6F2E7;
+  
+}
+
 .container-menupage img {
   height: 200px;
   object-fit: cover;
