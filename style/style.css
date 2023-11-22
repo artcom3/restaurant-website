@@ -1,5 +1,10 @@
-.header-image {
+.home-header-image {
   background-image: url('/images/mountain.jpg');
   background-repeat: no-repeat;
   background-position: center top;
 }
+
+.header-images {
+  object-fit: cover;
+}
+
