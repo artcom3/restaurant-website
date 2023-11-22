@@ -66,14 +66,11 @@ p {
   
 }
 
-.container-menupage img {
+.menu-page img {
   height: 200px;
   object-fit: cover;
 }
 
-.entree, .beve{
-  background-color: white;
-}
 
 footer {
   font-family: 'Roboto', sans-serif;
