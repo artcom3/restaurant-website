@@ -3,7 +3,25 @@
   background-position: center top;
 }
 
+.navbar-nav .nav-link {
+  color: white;
+}
 .header-images {
   object-fit: cover;
 }
 
+.navbar-background {
+  background-color: black;
+}
+
+h2 {
+  font-family: 'Roboto Serif', serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: #C13434;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
