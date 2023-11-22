@@ -14,12 +14,12 @@
 .navbar-background {
   background-color: black;
 }
-
 h2 {
   font-family: 'Roboto Serif', serif;
-  font-size: 50px;
+  font-size: 55px;
   font-weight: bold;
   color: #C13434;
+  padding-top: 30%;
 }
 
 p {
