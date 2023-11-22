@@ -18,10 +18,20 @@ h2 {
   font-size: 55px;
   font-weight: bold;
   color: #C13434;
-  padding-top: 30%;
+  padding-top: 5%;
 }
 
 p {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
+}
+
+.container-menu {
+  background-color: #F6F2E7;
+  
+}
+
+.btn {
+  background-color: #893434;
+  color:white;
 }
