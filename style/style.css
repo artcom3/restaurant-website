@@ -25,3 +25,13 @@ p {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
 }
+
+.container-menu {
+  background-color: #F6F2E7;
+  
+}
+
+.btn {
+  background-color: #893434;
+  color:white;
+}
